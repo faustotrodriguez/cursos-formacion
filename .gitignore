@@ -1,0 +1,13 @@
+# Carpetas de entornos virtuales
+.venv/
+env/
+venv/
+
+# Checkpoints automáticos de Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Archivos pesados de datos
+*.csv
+*.xlsx
+*.json
+
