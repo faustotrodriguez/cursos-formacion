@@ -1,0 +1,10 @@
+name: env
+channels:
+  - defaults
+dependencies:
+  - python
+  - matplotlib
+  - numpy
+  - pandas
+  - ipykernel
+prefix: /home/tito/anaconda3/envs/env
